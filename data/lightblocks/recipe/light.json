@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "AAA",
+        "ABA",
+        " A "
+    ],
+    "key": {
+        "A": "minecraft:glass_pane",
+        "B": "minecraft:torch"
+    },
+    "result": {
+        "id": "minecraft:light",
+        "count": 1
+    }
+}

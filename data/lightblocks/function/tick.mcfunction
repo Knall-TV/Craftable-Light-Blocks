@@ -1,0 +1,2 @@
+execute as @a at @s unless score @s got_light_block_recipe matches 1.. run recipe give @s lightblocks:light
+execute as @a at @s unless score @s got_light_block_recipe matches 1.. run scoreboard players set @s got_light_block_recipe 1

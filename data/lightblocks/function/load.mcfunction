@@ -1,0 +1,1 @@
+scoreboard objectives add got_light_block_recipe dummy
