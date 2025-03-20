@@ -1,3 +1,5 @@
+## **Craftable Light Blocks**
+
 A simple Datapack that adds a crafting recipe to your game which allows you to craft Light Blocks with the light power of 15 (possible in Survival). This datapack already includes a default crafting recipe but you could also change it by yourself by using online generators like this one: [https://crafting.thedestruc7i0n.ca/](https://crafting.thedestruc7i0n.ca/)
 
 When you have created your json file you can put the content of that generated file into the file _light.json_, which you can find inside the **craftable-light-blocks** datapack folder under the path: **\data\light-blocks\recipe\light.json**
