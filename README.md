@@ -6,6 +6,6 @@ About the default crafting recipe: To craft a Lightblock you only need one torch
 
 ![How to craft light blocks by default](https://cdn.modrinth.com/data/cached_images/c88f512eebb5a57c81bf3ee021797e7f46b328aa.png)
 
-The [Source Code](https://github.com/Knall-TV/Craftable-Light-Blocks/) is only available for the newest version of Minecraft that is included in the version range of this datapack. - It's also only the newest datapack version. (In this case the datapack version v.2.1 for Minecraft version 1.21.4)
+The [Source Code](https://github.com/Knall-TV/Craftable-Light-Blocks/) is only available for the newest version of Minecraft that is included in the version range of this datapack. - There is also only the newest datapack version available. (In this case the datapack version v.2.1 for Minecraft version 1.21.4)
 
 Have fun with this Datapack! :)
