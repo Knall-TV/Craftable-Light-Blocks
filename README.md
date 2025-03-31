@@ -4,7 +4,7 @@ A simple datapack that adds a crafting recipe to your game which allows you to c
 
 When you have created your json file you can put the content of that generated file into the file _light.json_, which you can find inside the **craftable-light-blocks** datapack folder under the path: **\data\light-blocks\recipe\light.json**
 
-About the default crafting recipe: To craft a Lightblock you only need one torch and 6 not stained glass panes and follow the scheme in the picture:
+About the default crafting recipe: To craft a Lightblock you only need one torch and 6 not stained glass panes and follow the scheme seen in the picture:
 
 ![How to craft light blocks by default](https://cdn.modrinth.com/data/cached_images/c88f512eebb5a57c81bf3ee021797e7f46b328aa.png)
 
