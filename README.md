@@ -12,4 +12,6 @@ The [Source Code](https://github.com/Knall-TV/Craftable-Light-Blocks/) is only a
 
 Download the datapack in any available version on [Modrinth](https://modrinth.com/datapack/craftable-light-blocks)!
 
-Have fun with this Datapack! :)
+**Have fun with this Datapack! :)**
+
+_If you find any problems or bugs while using this datapack feel free to report it via the [Report issues - Panel](https://github.com/Knall-TV/Craftable-Light-Blocks/issues)._
